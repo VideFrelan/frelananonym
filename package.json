@@ -1,6 +1,6 @@
 {
-  "name": "package",
-  "version": "1.0.0",
+  "name": "vfanon",
+  "version": "1.2.0",
   "description": "Anonymous Chatting App",
   "main": "index.js",
   "scripts": {
